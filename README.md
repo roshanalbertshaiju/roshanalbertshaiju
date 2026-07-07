@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aura "Farmer"<br>God of JS<br>Lord of AI Agents
+Coding <br>God of JS<br>Lord of AI Agents
 
 
 ## 🌐 Socials:

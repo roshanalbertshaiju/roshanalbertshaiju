@@ -1,27 +1,120 @@
-# 💫 About Me:
-Coding <br>God of JS<br>Lord of AI Agents
+<div align="center">
 
+<img src="./name.svg" width="100%" alt="Roshan Albert Shaiju">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/roshan.fr_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roshan-albert-shaiju-204584244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roshanalbertsh@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=roshanalbertshaiju&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=roshanalbertshaiju&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanalbertshaiju&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### `COMPUTER SCIENCE • AI • SOFTWARE • SYSTEMS`
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=roshanalbertshaiju&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+`BUILD`   `BREAK`   `LEARN`   `REPEAT`
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=roshanalbertshaiju&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/roshan-albert-shaiju-204584244)
+[![Email](https://img.shields.io/badge/EMAIL-111111?style=flat-square\&logo=gmail\&logoColor=white)](mailto:roshanalbertsh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/roshanalbertshaiju)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=roshanalbertshaiju&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# `01 / ABOUT`
+
+Computer Science student building software around **AI, computer vision, full-stack systems and interactive experiences**.
+
+I like taking ambitious ideas and turning them into things that actually work.
+
+---
+
+# `02 / SELECTED BUILDS`
+
+### `GESTURECAD`
+
+**Computer Vision × 3D × Interaction**
+
+Gesture-controlled CAD interface using real-time hand tracking and 3D rendering.
+
+`React` `TypeScript` `MediaPipe` `Three.js`
+
+→ [VIEW REPOSITORY](https://github.com/roshanalbertshaiju/GestureCAD)
+
+---
+
+### `YUVA TECH-FEST`
+
+**Full Stack × Real-World Deployment**
+
+Event platform built for registrations, authentication, QR tickets and event infrastructure.
+
+`React` `Firebase` `Three.js`
+
+→ [VIEW REPOSITORY](https://github.com/roshanalbertshaiju/yuva_techfest)
+
+---
+
+### `ERP`
+
+**Software Engineering × Business Systems**
+
+Production-oriented ERP platform with authentication, role-based access and business workflows.
+
+`Next.js` `PostgreSQL` `Supabase`
+
+---
+
+# `03 / CURRENTLY`
+
+```text
+AI AGENTS             ███████████████░░░   EXPLORING
+COMPUTER VISION       ██████████████░░░░   BUILDING
+SOFTWARE SYSTEMS      █████████████████░   BUILDING
+3D INTERACTION        ███████████░░░░░░░   EXPERIMENTING
+```
+
+---
+
+# `04 / STACK`
+
+**LANGUAGES**
+
+`C` `C++` `Python` `JavaScript` `TypeScript` `Dart`
+
+**AI / ML**
+
+`PyTorch` `TensorFlow` `Computer Vision` `AI Agents`
+
+**WEB / APPLICATIONS**
+
+`React` `Next.js` `Node.js` `Flask` `Flutter` `Electron`
+
+**3D / INTERACTION**
+
+`Three.js` `React Three Fiber`
+
+**CLOUD / DATA**
+
+`Supabase` `Firebase` `Azure` `Google Cloud` `Vercel`
+
+---
+
+# `05 / ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=roshanalbertshaiju&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanalbertshaiju&theme=dark&hide_border=true&layout=compact&langs_count=8" height="165">
+
+</div>
+
+---
+
+<div align="center">
+
+`ROSHAN ALBERT SHAIJU`
+
+**BUILDING THE NEXT THING.**
+
+</div>
